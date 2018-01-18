@@ -13,7 +13,7 @@ Let powershell select what drivers MDT is going to install, in a simple way.
 
         - Name: MDT-DriverSelection
             Type: Run Powershell Script
-            Powershell script: %SCRIPTROOT%\DriverSelection\Set-DriverPath.ps1
+            Powershell script: %SCRIPTROOT%\DriverSelection\MDT-DriverSelection.ps1
 
         - Name: Inject drivers automatically
             Type: Inject Drivers
