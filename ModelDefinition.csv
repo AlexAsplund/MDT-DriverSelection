@@ -1,0 +1,3 @@
+ModelExpression,Architecture,DriverPath
+^HP EliteBook 8(20|40|48|50) G3$,x64,Windows 10 (x64)\HP\HP_EliteBook_G3
+^HP EliteBook 8(20|40|48|50) G4$,x64,Windows 10 (x64)\HP\HP_EliteBook_G4
